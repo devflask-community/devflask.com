@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/devflask-community/client_devflask.com
+[submodule "server"]
+	path = server
+	url = https://github.com/devflask-community/server_devflask.com
